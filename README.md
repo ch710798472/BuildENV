@@ -16,6 +16,7 @@
 12. notepad++
 13. wps + ppt美化大师
 14. python + ipython notebook
+
 ####ali:
 1. alilang + dingding + wangwang + alineiwai + aliguard
 2. alitomcat + pandora.sar + jdk+maven + TortoiseSVN
